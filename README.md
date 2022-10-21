@@ -6,7 +6,7 @@ Le tout sur un design sobre et épuré.
 
 ## Spécification Téchnique
 
-**Front-end:** HTML Twig, CSS, Javascript, Jquery
+**Front-end:** HTML, CSS, Javascript, Jquery
 
 
 
